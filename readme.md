@@ -14,3 +14,5 @@ Nexter is a hands-on project designed to practice and explore the capabilities o
 
 -  HTML5
 -  CSS3(Sass) (with a focus on Grid layout)
+
+## Deployed on nexter-zhuge.vercel.app
